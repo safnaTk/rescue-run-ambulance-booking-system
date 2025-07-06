@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "796765349899",
+    "project_id": "rescue-run-project",
+    "storage_bucket": "rescue-run-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796765349899:android:1c92c98722d962bbaf7f0e",
+        "android_client_info": {
+          "package_name": "com.example.rescue_run_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4bkDr14ZHKMGMK5sbgrafx0ThZO9BD8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796765349899:android:e9e7b327c0f31d49af7f0e",
+        "android_client_info": {
+          "package_name": "com.example.rescuerun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4bkDr14ZHKMGMK5sbgrafx0ThZO9BD8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
